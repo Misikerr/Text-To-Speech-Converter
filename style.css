@@ -9,7 +9,7 @@
     width: 100%;
     min-height: 100vh;
     background: rgba(4, 27, 50, 0.929);
-    background-image: url(images/flag.png);
+    background-image: url(flag.png);
     background-size:contain;
     display: flex;
     align-items: center;
